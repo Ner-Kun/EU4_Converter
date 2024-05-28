@@ -1,5 +1,5 @@
 ## EU4 Converter
-![image](https://github.com/Ner-Kun/EU4_Converter/assets/94227626/9106edc4-e638-45dd-85da-8a0e25268ea3)
+![image](https://github.com/Ner-Kun/EU4_Converter/assets/94227626/abf3625e-2743-427b-8cc4-b0edb7d451a3)
 
 
 **EU4 Converter** - Програма для перекладачів, яка сама конвертує текст в «Альфавіт» і навпаки.
